@@ -55,7 +55,6 @@ kombu==5.5.2
 lxml==5.2.1
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
-mkl-service==2.4.0
 nest-asyncio==1.6.0
 omegaconf==2.3.0
 orjson==3.10.16
