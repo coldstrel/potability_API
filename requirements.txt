@@ -82,8 +82,6 @@ PyQtWebEngine==5.15.6
 
 python-dateutil==2.9.0.post0
 
-pywin32==310
-
 pyzmq==26.3.0
 
 scmrepo==3.3.10
